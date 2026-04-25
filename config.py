@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "YOUR_MADARA_BRO")
-BOT_USERNAME = getenv("BOT_USERNAME", "lvodfbjakvakf_bot")
-BOT_NAME = getenv("BOT_NAME", "Radha")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_YOUR_ASHISH_BRO_ll")
+BOT_USERNAME = getenv("BOT_USERNAME", "ll_YOUR_MUSIC_llBOT")
+BOT_NAME = getenv("BOT_NAME", "˹ 𝐀ʀꜱᴇᴇɴᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]")
 ASSUSERNAME = getenv("ASSUSERNAME", "YOUR_MADARA_BRO")
 
 # MongoDB
@@ -44,7 +44,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+UMo3Ugi68FFkYzVl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+n7E6Q19lY0cxNDBl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ll_YOUR_ANIMExWORLD_ll")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
@@ -86,18 +86,18 @@ autoclean = []
 confirmer = {}
 
 # Image URLs
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/5go4t6.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ohezme.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ohezme.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ohezme.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ohezme.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://i.ibb.co/v6C6q6WG/x.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://i.ibb.co/0yhfy3h3/x.jpg")
+PLAYLIST_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+STATS_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/bRr9nN7L/x.jpg"
 
 
 # Helper function
