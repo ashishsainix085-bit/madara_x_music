@@ -32,11 +32,13 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_6"],
-                url=config.SUPPORT_CHANNEL
+                url=config.SUPPORT_CHANNEL,
+                style=ButtonStyle.PRIMARY
             ),
             InlineKeyboardButton(
                 text=_["S_B_2"],
-                url=config.SUPPORT_CHAT
+                url=config.SUPPORT_CHAT,
+                style=ButtonStyle.DANGER
             ),
         ],
         [
