@@ -13,10 +13,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "II_YOUR_MADARA_DEFAULTER_II")
-BOT_USERNAME = getenv("BOT_USERNAME", "RADHA_MUSIC_GMS_op_bot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "YOUR_MADARA_BRO")
+BOT_USERNAME = getenv("BOT_USERNAME", "lvodfbjakvakf_bot")
 BOT_NAME = getenv("BOT_NAME", "Radha")
-ASSUSERNAME = getenv("ASSUSERNAME", "Aiused")
+ASSUSERNAME = getenv("ASSUSERNAME", "YOUR_MADARA_BRO")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -38,13 +38,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # Git
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/HKMUSIC/madarasongbot")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/shuabhkumarmishra412-create/madara_x_music")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+dv_rcq5uIXhmMWM1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Imyf3M9TO5k1ODRl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+UMo3Ugi68FFkYzVl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+n7E6Q19lY0cxNDBl")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
