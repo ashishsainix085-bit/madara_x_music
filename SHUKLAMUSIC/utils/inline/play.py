@@ -101,14 +101,14 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text="ᴜᴘᴅᴀᴛᴇ",
-                url="https://t.me/+Imyf3M9TO5k1ODRl",
+                url="https://t.me/+UMo3Ugi68FFkYzVl",
                  icon_custom_emoji_id=5409025823388741707,
                 style=ButtonStyle.PRIMARY
                 
             ),
             InlineKeyboardButton(
                 text="ʜᴏϻє",
-                url="https://t.me/+dv_rcq5uIXhmMWM1",
+                url="https://t.me/ll_YOUR_ANIMExWORLD_ll",
                 icon_custom_emoji_id=5409194306365829029,
                 style=ButtonStyle.PRIMARY
             
