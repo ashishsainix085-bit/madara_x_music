@@ -18,13 +18,16 @@ BOT_USERNAME = getenv("BOT_USERNAME", "ll_YOUR_MUSIC_llBOT")
 BOT_NAME = getenv("BOT_NAME", "˹ 𝐀ʀꜱᴇᴇɴᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪˼ [ ɴᴏ ᴀᴅs ]")
 ASSUSERNAME = getenv("ASSUSERNAME", "YOUR_MADARA_BRO")
 
-# Vars For API End Pont.
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
-YT_API_KEY = getenv("YT_API_KEY" , 'xbit_H4kCLtcb03xrPVBA55khulZgqMKeT_8f' ) ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 MONGO_DB_URL = getenv("MONGO_DB_URL", None)
+
+# -----------------------------
+# YouTube API configuration
+API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+API_KEY = getenv("API_KEY", None)
 
 
 # Limits and IDs
